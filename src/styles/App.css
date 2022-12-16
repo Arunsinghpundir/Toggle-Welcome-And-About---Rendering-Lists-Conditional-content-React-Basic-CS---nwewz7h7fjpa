@@ -3,3 +3,11 @@
   margin: 0 auto;
   margin-top: 50px;
 }
+
+.active {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
